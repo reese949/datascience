@@ -11,10 +11,10 @@ Below is a list of projects included in this repository:
   - **Technologies Used**: Python, Pandas, Matplotlib.
   - **Key Findings**: Blackrock's Technology ETF has a higher annual growth rate than the S&P 500, however, it took much longer for the technology sector to recover from the 'dot com' collapse while the S&P recovered much faster. Therefore, the S&P 500 index is a better investment for beginner and casual investors, while the technology sector must be closely monitored if one plans to invest their money into it.
 
-- **Project 2**: [Project Title]
-  - **Description**: Brief description of the project.
-  - **Technologies Used**: R, ggplot2, Tidyverse, etc.
-  - **Key Findings**: Summarize the key findings or insights from the project.
+- **Project 2**: World Happiness Data Analysis
+  - **Description**: In this project, I explore, clean, aggregate, and visualize datasets from the World Happiness Report conducted by Gallup.
+  - **Technologies Used**: Python, Pandas, Matplotlib
+  - **Key Findings**: Family and Economy are the greatest contributing factors to the average person's happiness. The happiest English speaking country is New Zealand, coming in at 9th place, while the United States ranks at 14th place.
 
 ## Installation
 
