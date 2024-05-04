@@ -9,7 +9,7 @@ Below is a list of projects included in this repository:
 - **Project 1**: Blackrock Technology Sector ETF vs. S&P 500 Benchmark Analysis
   - **Description**: In this project, I used Python to explore, clean, aggregate, and visualize two stock market datasets. The first dataset is for Blackrock's iShares Technology ETF (IYW) while the second dataset is for the S&P 500 Index Fund (SPX). The goal of this project is to inform investors of the best performing investment vehicle by using real, historical data.
   - **Technologies Used**: Python, Pandas, Matplotlib.
-  - **Key Findings**: Blackrock's Technology ETF has a higher annual growth rate than the S&P 500, however, it took much longer for the technology sector to recover from the 'dot com' collapse while the S&P recovered much faster. Therefore, the S&P 500 index is a better investment for beginner and casual investors, while the technology sector is better for a growth-oriented investor who plans on actively monitoring their investment.
+  - **Key Findings**: Blackrock's Technology ETF has a higher annual growth rate than the S&P 500, however, it took much longer for the technology sector to recover from the "dot com" collapse while the S&P recovered much faster. Therefore, the S&P 500 index is a better investment for beginner and casual investors, while the technology sector is better for a growth-oriented investor who plans on actively monitoring their investment.
 
 - **Project 2**: World Happiness Data Analysis
   - **Description**: In this project, I explore, clean, aggregate, and visualize datasets from the World Happiness Report conducted by Gallup.
