@@ -6,15 +6,16 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 ## Projects
 Below is a list of projects included in this repository:
 
-- **Project 1**: Blackrock Technology Sector ETF vs. S&P 500 Benchmark Analysis
-  - **Description**: In this project, I used Python to explore, clean, aggregate, and visualize two stock market datasets. The first dataset is for Blackrock's iShares Technology ETF (IYW) while the second dataset is for the S&P 500 Index Fund (SPX). The goal of this project is to inform investors of the best performing investment vehicle by using real, historical data.
+- **Project 1**: BlackRock Inc's Tech Index vs. S&P 500 Benchmark Analysis
+  - **Description**: Which is a better index for your money? The S&P 500 or BlackRock Inc's Technology Index Fund? In this project, we'll find out. The goal of this project is to inform investors of the best performing investment vehicle by using real, historical data.
   - **Technologies Used**: Python, Pandas, Matplotlib.
   - **Key Findings**: Blackrock's Technology ETF has a higher annual growth rate than the S&P 500, however, it took much longer for the technology sector to recover from the "dot com" collapse while the S&P recovered much faster. Therefore, the S&P 500 index is a better investment for beginner and casual investors, while the technology sector is better for a growth-oriented investor who plans on actively monitoring their investment.
 
-- **Project 2**: World Happiness Data Analysis
-  - **Description**: In this project, I explore, clean, aggregate, and visualize datasets from the World Happiness Report conducted by Gallup.
-  - **Technologies Used**: Python, Pandas, Matplotlib
-  - **Key Findings**: Family and Economy are the greatest contributing factors to the average person's happiness. The happiest English speaking country is New Zealand, coming in at 9th place, while the United States ranks at 14th place.
+- **Project 2**: 
+SQL Analytics for Northwind Traders
+  - **Description**: Northwind Traders is a wholesale provider of consumer staples. We're going to analyze sales data from Northwind Traders to find meaninful insights for upper management.
+  - **Technologies Used**: Python, SQL
+  - **Key Findings**: Steve Buchanan was the highest performing salesperson in 1996. Beverages came in 1st place as the highest performing category, followed by Dairy Products in 2nd place.
 
 ## Installation
 
